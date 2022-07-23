@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("sunny day");
         System.out.println("rain day");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
